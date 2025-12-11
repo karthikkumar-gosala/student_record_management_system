@@ -1,4 +1,4 @@
-# Student Management System 
+# Student Record Management System 
 
 A role-based Student Management System written in C, featuring login authentication, CRUD operations, grading logic, and table-formatted display. The system uses text files for persistent data storage and supports multiple user roles: Admin, Staff, Student, and Guest.
 
